@@ -9,3 +9,7 @@ https://github.com/search?q=group-title%3D%22AstroGO%22&type=code
 https://github.com/search?q=web.hypp.tv%3A443%2FPLTV%2F88888888&type=code
 
 https://github.com/search?q=playback.sooka.my&type=code
+
+https://github.com/search?q=linearjitp-playback.astro.com.my&type=code
+
+https://github.com/search?q=assembly.mediatailor.ap-southeast-1.amazonaws.com&type=code
